@@ -5,7 +5,7 @@ import numpy as np
 import argparse
 
 print(' ==== current keywords ======')
-kws = ['TRADER JOE', 'WHOLEFDS', 'SAFEWAY', 'MARKET']
+kws = ['TRADER JOE', 'WHOLEFDS', 'SAFEWAY', 'MARKET', 'FARMER']
 print(kws)
 
 parser = argparse.ArgumentParser(description='Process some transactions')
